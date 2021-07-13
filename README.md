@@ -1,5 +1,5 @@
 # Cifrado-Cesar
-Código para un cifrado por desplazamiento (cifrado Cesar) en python.
+Código para una decodificación por desplazamiento (cifrado Cesar) en python.
 
 ``` python
 
